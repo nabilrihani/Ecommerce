@@ -1,0 +1,13 @@
+.container {
+    padding: 20px;
+  }
+  
+  .project-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .project-card {
+    width: 300px;
+  }
